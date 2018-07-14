@@ -1,3 +1,0 @@
-1.@SpringBootApplication等同于@EnableAutoConfiguration+@ComponentScan(同级包和子包)
-2.Springboot将静态资源放在static目录下,访问时不用在ｕrl上写/static,直接访问就行
-3.使用aop进行全局异常捕获
